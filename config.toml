@@ -53,3 +53,4 @@ theme = "hugo-serif-theme"
     url = "/contact/"
       weight = 2
     
+theme = "hugo-serif-theme"
